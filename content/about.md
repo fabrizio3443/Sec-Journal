@@ -8,7 +8,7 @@ This journal serves as my personal notebook to document and centralize the thing
 
 ## About Me
 
-I'm Fabrizio.dev, a passionate computer scientist who loves everything related to technology. I am a full-stack web and mobile developer with a background in data science and business intelligence, automation, and reporting, and a cybersecurity enthusiast. Cybersecurity is something I've been interested in throughout my life, and more than anything, I love the ability to understand technology at a deeper level. In this field, mistakes will always happen, but they will also always teach us something new.
+I'm Fabrizio.root, a passionate computer scientist who loves everything related to technology. I am a full-stack web and mobile developer with a background in data science and business intelligence, automation, and reporting, and a cybersecurity enthusiast. Cybersecurity is something I've been interested in throughout my life, and more than anything, I love the ability to understand technology at a deeper level. In this field, mistakes will always happen, but they will also always teach us something new.
 
 I believe that knowledge shouldn't have barriers, especially economic ones. Information should be free to distribute and share with others, allowing anyone to pursue a desired goal, with passion and interest being the only limits.
 
