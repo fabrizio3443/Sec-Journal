@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "Fabrizio.dev's Sec-Journal"
+theme = "archie"
+copyright = "Fabrizio.dev"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  mode = "dark"
+
+[[params.social]]
+    name = "GitHub"
+    icon = "github"
+    url = "https://github.com/fabrizio3443"
+
+[[params.social]]
+    name = "Instagram"
+    icon = "instagram"
+    url = "https://www.instagram.com/fabrizio.dev"
+
+[[params.social]]
+    name = "X"
+    icon = "twitter"
+    url = "https://x.com/Fabrizio_dev"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "All Posts"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
